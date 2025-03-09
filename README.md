@@ -5,4 +5,4 @@ A ship which was termed as the ‘unsinkable’ one struck disaster by colliding
 Only 1517 passengers were able to survive the shipwreck with the help of life boats but it could not accommodate all the passengers therefore it lead to a huge loss of life.
 
 Problem Statement
-design a model based on given training data set which predicted the survival of passengers during the shipwreck.
+design a model based on given training data set which predicted the survival of passengers during the shipwreck by using neural network
